@@ -8,4 +8,4 @@ local function CheckForRLua()
   end
 end
 
-return CheckForRLua()
+return CheckForRLua
