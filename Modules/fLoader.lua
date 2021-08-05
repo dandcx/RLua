@@ -45,7 +45,6 @@ function fLoader:Load(code, args)
 end
 
 -- Example
--- Example
 
 local Code = 'print("Thanks for using fLoader "..tostring(player))\nprint("Made and developed by "..game:GetService("Players"):GetNameFromUserIdAsync(121363098))'
 
