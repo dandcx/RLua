@@ -1,3 +1,8 @@
+--[[ 
+	Turn a lua table into variables to execute in a string.
+	DISCLAIMER: FUNCTIONS ARE NOT SUPPORTED ONLY GLOBAL FUNCTIONS LIKE 'print()' and 'require()' ARE SINCE LUA DOESN'T ALLOW FUNCTIONS TO BE CONVERTED TO STRINGS
+]]
+
 local fLoader = {}
 
 function concat(t, i)
