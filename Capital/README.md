@@ -4,9 +4,7 @@ Module - https://www.roblox.com/library/8073334886/
 
 A roblox model to help utilize currency OOP in games.
 
-# Documentation
-
-Make sure you have DataStore's enabled so it can save data over servers.
+**Note:** Make sure you have DataStore's enabled so it can save data over servers.
 
 | Property | Type | Description | 
 |-|-|-|
